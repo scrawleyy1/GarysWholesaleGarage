@@ -1,0 +1,15 @@
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.csproj.AssemblyReference.cache
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.AssemblyInfoInputs.cache
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.AssemblyInfo.cs
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.csproj.CoreCompileInputs.cache
+C:\Users\NSS_STUDENT\workspace\garysgarage\bin\Debug\net6.0\garysgarage.exe
+C:\Users\NSS_STUDENT\workspace\garysgarage\bin\Debug\net6.0\garysgarage.deps.json
+C:\Users\NSS_STUDENT\workspace\garysgarage\bin\Debug\net6.0\garysgarage.runtimeconfig.json
+C:\Users\NSS_STUDENT\workspace\garysgarage\bin\Debug\net6.0\garysgarage.dll
+C:\Users\NSS_STUDENT\workspace\garysgarage\bin\Debug\net6.0\ref\garysgarage.dll
+C:\Users\NSS_STUDENT\workspace\garysgarage\bin\Debug\net6.0\garysgarage.pdb
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.dll
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\ref\garysgarage.dll
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.pdb
+C:\Users\NSS_STUDENT\workspace\garysgarage\obj\Debug\net6.0\garysgarage.genruntimeconfig.cache
